@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "inclass_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://exfmzjmh:E0n__uU7l9nfOIYEzb3G8w6aBKiVtV1b@stampy.db.elephantsql.com/exfmzjmh",
+            "name": "My-database"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://dbfocjzm:6YEM6uHgz7CFo0WojTMdePzY8jWW9uYt@stampy.db.elephantsql.com/dbfocjzm",
+            "name": "todays_connection"
+        }
+    ]
+}
